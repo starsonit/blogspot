@@ -4876,7 +4876,7 @@ textarea,Textarea{max-width:100%;min-width:100%}
 .b-nav-tab.b-nav-general>li>a{padding:12px 4px;font-size:12px;line-height:16px;text-align:center;font-weight:700;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;white-space:nowrap}
 .b-nav-tab.b-nav-flex{margin:0;display:-ms-flexbox;display:flex}
 .b-nav-tab.b-nav-flex>li{-ms-flex:1;flex:1 1}
-.b-card{background-color:#fff;-webkit-box-shadow:0 1px 3px 0 rgba(26,26,26,.1);box-shadow:0 1px 3px 0 rgba(26,26,26,.1);border-radius:3px;margin-bottom:12px}
+.b-card{background-color:#fff;-webkit-box-shadow:0 1px 3px 0 rgba(26,26,26,.1);border-radius:7px;margin-bottom:12px}
 .b-card .b-card-inner{border-bottom:1px solid #ebebeb;margin-bottom:12px;padding-bottom:12px}
 .b-card-inverse{background-color:#e70000;-webkit-box-shadow:0 1px 3px 0 rgba(26,26,26,.1);box-shadow:0 1px 3px 0 rgba(26,26,26,.1);border-radius:3px;margin-bottom:12px}
 .b-card-body{padding:12px;display:block;position:relative}
